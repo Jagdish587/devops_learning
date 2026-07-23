@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dev","Source":"./modules/file","Dir":"modules/file"},{"Key":"hello_file","Source":"./modules/file","Dir":"modules/file"},{"Key":"prod","Source":"./modules/file","Dir":"modules/file"},{"Key":"test","Source":"./modules/file","Dir":"modules/file"}]}
